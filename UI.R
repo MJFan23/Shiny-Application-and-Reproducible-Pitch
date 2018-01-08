@@ -1,7 +1,7 @@
 library(shiny)
 
 ##Load Data
-data <- read.csv("/Users/Lauren/Documents/Data Science Coursera/Stat4/EmployeeData.csv")
+data <- read.csv("https://github.com/MJFan23/Shiny-Application-and-Reproducible-Pitch/blob/master/EmployeeData.csv")
 
 
 ui <- fluidPage(
