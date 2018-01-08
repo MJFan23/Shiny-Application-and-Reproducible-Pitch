@@ -6,7 +6,7 @@ Github Repository: https://github.com/MJFan23/Shiny-Application-and-Reproducible
 
 Shiny Application: https://mjfan23.shinyapps.io/Stat4/
 
-Presentation: 
+Presentation: http://rpubs.com/LMayer23/347829
 
 ##Description
 Using data from SOURCE: 2012 County Business Patterns and 2012 Economic Census.  For information on confidentiality protection, sampling error, and nonsampling error, see http://www.census.gov/econ/susb/methodology.html,
