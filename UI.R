@@ -23,6 +23,14 @@ ui <- fluidPage(
                          textInput("lambda","Please Select Exponential Lambda:", 1))
       ),
       mainPanel(
+        h1("Employee Distribution Analysis"),
+        h5("The data used to generate this chart comes from the 2012 County 
+            Business Patterns and 2012 Economic Census. 
+            Using the dropdown, please select a distribution type, use the slider
+            to increase/decrease the number of employees, type in a numerical value
+           for the number of firms and type in a numberical value for the standard 
+           deviation (if applicable). After the inputs have been established a histogam
+           is generated to display the analysis. Happy analysis! :)"),
         plotOutput("myPlot")
       )
     )
